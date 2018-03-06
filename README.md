@@ -8,9 +8,9 @@ This project is intended to exist while the pull request is being processed for 
 
 Import into a project using the [rp-shared][1] project. Instead of calling `MapUtils.createRealWarehouse()` instead call `MapUtilsFix.createRealWarehouse2018()`.
 
-## Author
+## Authors
 
-* [rp-utils by hawesie][1]
+* Original project [rp-utils by hawesie][1]
 
 * Fix by Philip Eagles
 
